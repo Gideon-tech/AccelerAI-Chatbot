@@ -51,7 +51,7 @@ Type messages to interact with the bot. Type 'exit' to end the session.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - checkout the LICENSE for details.
 
 ## Acknowledgements
 
