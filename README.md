@@ -1,6 +1,6 @@
 # AccelerAI Chatbot
 
-A simple interactive chatbot built with Google's Gemini API that provides helpful responses to user queries.
+A simple interactive chatbot built with Google's Gemini API that provides helpful responses to user queries. It loves working with nerds tho
 
 ## Features
 
@@ -19,7 +19,7 @@ A simple interactive chatbot built with Google's Gemini API that provides helpfu
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/accelerai-chatbot.git
+   git clone https://github.com/Gideon-tech/accelerai-chatbot.git
    cd accelerai-chatbot
    ```
 
@@ -51,7 +51,7 @@ Type messages to interact with the bot. Type 'exit' to end the session.
 
 ## License
 
-[Choose an appropriate license for your project]
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
