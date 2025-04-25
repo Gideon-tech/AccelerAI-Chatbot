@@ -19,8 +19,8 @@ A simple interactive chatbot built with Google's Gemini API that provides helpfu
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Gideon-tech/accelerai-chatbot.git
-   cd accelerai-chatbot
+   git clone https://github.com/Gideon-tech/AccelerAI-Chatbot.git
+   cd AccelerAI-Chatbot
    ```
 
 2. Install dependencies:
